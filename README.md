@@ -1,11 +1,13 @@
-# 🚀 ¡Hola! Soy [Tu Nombre]  
-💡 Apasionado por la Ciencia de Datos, Machine Learning y Astronomía 🌌  
-📊 Me gusta analizar datos y construir modelos de predicción.  
-👨‍💻 Actualmente trabajando en proyectos de Data Science.  
+# 🚀 Hi! I'm David Miranda
+💡 Passionate about Data Science, Machine Learning, and Astronomy 🌌  
+📊 I enjoy analyzing data and building predictive models.  
+👨‍💻 Currently working on Data Science projects.  
 
-## 🔥 Tecnologías:
-- Python, Pandas, NumPy
-- Machine Learning (Scikit-Learn, TensorFlow)
-- SQL y visualización de datos (Matplotlib, Seaborn)
+## 🔥 Technologies:  
+- Python, Pandas, NumPy  
+- Machine Learning (Scikit-Learn, TensorFlow)  
+- SQL and Data Visualization (Matplotlib, Seaborn)  
 
-💼 **[LinkedIn](https://linkedin.com/in/davidmiguelmiranda) | [Kaggle](https://www.kaggle.com/davidmirandarodrguez)**
+🎓 Graduated in Computer Engineering with specialization in Computing.  
+
+💼 **[LinkedIn](https://linkedin.com/in/davidmiguelmiranda/) | [Kaggle](https://www.kaggle.com/davidmirandarodrguez)**
